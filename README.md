@@ -9,3 +9,7 @@ https://www.reddit.com/r/linuxupskillchallenge/
 # Day 1 - Accessing your server
 
 [day 1](./day1.md)
+
+# Day 2 - Basic navigation
+
+[day 2](./day2.md)

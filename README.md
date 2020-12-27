@@ -13,3 +13,5 @@ https://www.reddit.com/r/linuxupskillchallenge/
 - Day 4 - [Installing software, exploring the file structure](./day4.md)
 
 - Day 5 - [More or less...](./day5.md)
+
+- Day 6 - [Editing with "vim"](./day6.md)

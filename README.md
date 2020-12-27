@@ -11,3 +11,5 @@ https://www.reddit.com/r/linuxupskillchallenge/
 - Day 3 - [Power trip!](./day3.md)
 
 - Day 4 - [Installing software, exploring the file structure](./day4.md)
+
+- Day 5 - [More or less...](./day5.md)

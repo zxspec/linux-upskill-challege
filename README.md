@@ -17,3 +17,5 @@ https://www.reddit.com/r/linuxupskillchallenge/
 - Day 6 - [Editing with "vim"](./day6.md)
 
 - Day 7 - [Installing Apache](./day7.md)
+
+- Day 8 - [The infamous "grep"...](./day8.md)

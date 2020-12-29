@@ -15,3 +15,5 @@ https://www.reddit.com/r/linuxupskillchallenge/
 - Day 5 - [More or less...](./day5.md)
 
 - Day 6 - [Editing with "vim"](./day6.md)
+
+- Day 7 - [Installing Apache](./day7.md)

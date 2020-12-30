@@ -19,3 +19,5 @@ https://www.reddit.com/r/linuxupskillchallenge/
 - Day 7 - [Installing Apache](./day7.md)
 
 - Day 8 - [The infamous "grep"...](./day8.md)
+
+- Day 9 - [Ports, open and closed](./day9.md)

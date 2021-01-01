@@ -23,3 +23,5 @@ https://www.reddit.com/r/linuxupskillchallenge/
 - Day 9 - [Ports, open and closed](./day9.md)
 
 - Day 10 - [Getting the computer to do your work for you](./day10.md)
+
+- Day 11 - [Finding things...](./day11.md)

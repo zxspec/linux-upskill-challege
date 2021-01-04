@@ -26,4 +26,6 @@ https://www.reddit.com/r/linuxupskillchallenge/
 
 - Day 11 - [Finding things...](./day11.md)
 
-- Day 12 - [Finding things...](./day12.md)
+- Day 12 - [Copying with SFTP](./day12.md)
+
+- Day 13 and 14  - [Who has permission?](./day13-14.md)

@@ -1,8 +1,8 @@
 # Day 1 - Accessing your server
 
-https://www.reddit.com/r/linuxupskillchallenge/comments/k80ufq/day_1_accessing_your_server/
-https://github.com/snori74/linuxupskillchallenge/blob/master/01.md
-https://www.youtube.com/watch?v=xaDAB0vbIr4
+https://www.reddit.com/r/linuxupskillchallenge/comments/k80ufq/day_1_accessing_your_server/  
+https://github.com/snori74/linuxupskillchallenge/blob/master/01.md  
+https://www.youtube.com/watch?v=xaDAB0vbIr4  
 
 ## basic system commands
 

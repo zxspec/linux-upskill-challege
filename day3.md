@@ -1,7 +1,7 @@
 # Day 3 - Power trip!
 
 https://github.com/snori74/linuxupskillchallenge/blob/master/03.md  
-https://www.youtube.com/watch?v=B6fDvmmh2_Q
+https://www.youtube.com/watch?v=B6fDvmmh2_Q  
 
 ## sudo
 

@@ -1,7 +1,7 @@
 # Day 2 - Basic navigation
 
-https://github.com/snori74/linuxupskillchallenge/blob/master/02.md
-https://www.youtube.com/watch?v=x_VBskTUzxg
+https://github.com/snori74/linuxupskillchallenge/blob/master/02.md  
+https://www.youtube.com/watch?v=x_VBskTUzxg  
 
 ## basic commands
 

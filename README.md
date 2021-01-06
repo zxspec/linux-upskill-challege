@@ -28,4 +28,6 @@ https://www.reddit.com/r/linuxupskillchallenge/
 
 - Day 12 - [Copying with SFTP](./day12.md)
 
-- Day 13 and 14  - [Who has permission?](./day13-14.md)
+- Day 13 and 14 - [Who has permission?](./day13-14.md)
+
+- Day 15 - [Deeper into repositories...](./day15.md)

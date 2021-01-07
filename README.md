@@ -31,3 +31,5 @@ https://www.reddit.com/r/linuxupskillchallenge/
 - Day 13 and 14 - [Who has permission?](./day13-14.md)
 
 - Day 15 - [Deeper into repositories...](./day15.md)
+
+- Day 16 - [Day 16 - 'tar' and friends...](./day16.md)

@@ -32,4 +32,6 @@ https://www.reddit.com/r/linuxupskillchallenge/
 
 - Day 15 - [Deeper into repositories...](./day15.md)
 
-- Day 16 - [Day 16 - 'tar' and friends...](./day16.md)
+- Day 16 - ['tar' and friends...](./day16.md)
+
+- Day 17 - [From the source](./day17.md)

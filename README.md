@@ -35,3 +35,5 @@ https://www.reddit.com/r/linuxupskillchallenge/
 - Day 16 - ['tar' and friends...](./day16.md)
 
 - Day 17 - [From the source](./day17.md)
+
+- Day 18 - [Log rotation](./day18.md)

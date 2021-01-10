@@ -37,3 +37,5 @@ https://www.reddit.com/r/linuxupskillchallenge/
 - Day 17 - [From the source](./day17.md)
 
 - Day 18 - [Log rotation](./day18.md)
+
+- Day 19 - [Inodes, symlinks and stat](./day19.md)
